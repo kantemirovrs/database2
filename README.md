@@ -14,10 +14,10 @@
 #
 #При работе в IDE сформируйте ER-диаграмму получившейся базы данных.
 #
-![z21.png](https://github.com/kantemirovrs/database2/blob/main/img/z21.png)
+![z41.png](https://github.com/kantemirovrs/database2/blob/main/img/z41.png)
 #
 #Задание 2.Составьте таблицу, используя любой текстовый редактор или Excel, в которой должно быть два столбца: в первом должны быть названия таблиц восстановленной базы, во втором названия первичных ключей этих таблиц.
 #Решение 2.
 #
-![z41.png](https://github.com/kantemirovrs/database2/blob/main/img/z41.png)
+![z21.png](https://github.com/kantemirovrs/database2/blob/main/img/z21.png)
 
